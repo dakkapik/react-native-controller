@@ -19,6 +19,7 @@ export default function HomeScreen() {
         <ThemedText type="title">Hump a log</ThemedText>
         <HelloWave />
       </ThemedView>
+      
       <ThemedView style={styles.stepContainer}>
         <ThemedText type="subtitle">Step 1: Try it</ThemedText>
         <ThemedText>
